@@ -1,10 +1,10 @@
-[
-    {
-        "version": "10.3.6",
-        "location": "https://github.com/ptgms/Xcode-Patcher/raw/master/patch/10.3.6/xcodebuild",
-        "support": [
-            { "type": "Max", "number": "10.3" },
-            { "type": "Source", "number": "10.1" }
-        ]
-    }
-]
+{
+  "values":[
+     {
+       "version": "10.3.6",
+       "path": "https://github.com/ptgms/Xcode-Patcher/raw/master/patch/10.3.6/xcodebuild",
+       "sourced": "10.1",
+       "max": "10.3"
+     }
+  ]
+}    
